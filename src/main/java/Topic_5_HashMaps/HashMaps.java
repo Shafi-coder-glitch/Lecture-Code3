@@ -14,6 +14,7 @@ public class HashMaps {
         stateAbbreviations.put("Michigan", "MI");
         stateAbbreviations.put("Iowa", "IA");
 
+
         // Print the entire HashMap
         System.out.println("State Abbreviations: " + stateAbbreviations);
 
